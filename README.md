@@ -13,5 +13,5 @@
 - 🤔 I’m looking for help with ...  **Still thinking**
 - 💬 Ask me about ...  **Pythone**
 - 📫 How to reach me: ...  **krizwan813330@gmail.com**
-- ⚡ Fun fact: ...  **I have scored more marks then your whole generation would every score**
+- ⚡ Fun fact: ...  **I Dont have any fun fack i am a serious guy **
 
