@@ -7,6 +7,7 @@
   
   Here are some ideas to get you started:
 
+- 😐 I’m currently a 3rd year student
 - 🔭 I’m currently working on ...   **Blueguard**
 - 🌱 I’m currently learning ...  **Full stack Web devolopment**
 - 👯 I’m looking to collaborate on ..  **Developers**
