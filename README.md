@@ -9,9 +9,8 @@
 
 - 🔭 I’m currently working on ...   **Blueguard**
 - 🌱 I’m currently learning ...  **Full stack Web devolopment**
-- 👯 I’m looking to collaborate on ..  **Devolopers**
-- 🤔 I’m looking for help with ...  **Still thinking**
+- 👯 I’m looking to collaborate on ..  **Developers**
 - 💬 Ask me about ...  **Python**
 - 📫 How to reach me: ...  **krizwan813330@gmail.com**
-- ⚡ Fun fact: ...  **I Dont have any fun fact i am a serious guy **
+  
 
